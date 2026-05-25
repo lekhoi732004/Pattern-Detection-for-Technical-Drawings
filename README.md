@@ -28,7 +28,7 @@ PATTERN_DETECTION_SOTATEK/
 ```
 ## ⚙️ Hướng dẫn cài đặt (Installation)
 
-Dự án sử dụng môi trường Python tiêu chuẩn. Khuyến nghị sử dụng Python 3.9+.
+Dự án sử dụng môi trường Python tiêu chuẩn. Khuyến nghị sử dụng Python 3.11.
 
 **Bước 1: Clone Repository**
 
